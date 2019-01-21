@@ -10,7 +10,7 @@ Welcome to the webpage for Programming Models for Emerging Platforms.
 
 I will continually update the following schedule with slides used during lecture, as well as any code samples discussed and written. 
 
-| Date     | Topic      | Slides      | Notes     |
-|:---------|:-----------|:------------|:----------|
-| 1/22     |            |             |           |
+| Date     | Topic      | Slides      |Code       | Notes     |
+|:---------|:-----------|:------------|:----------|:----------|
+| 1/22     | Overview   |             |           | Assignment #0 Assigned |
 
