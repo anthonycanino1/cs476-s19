@@ -12,5 +12,5 @@ I will continually update the following schedule with slides used during lecture
 
 | Date     | Topic      | Slides      |Code       | Notes     |
 |:---------|:-----------|:------------|:----------|:----------|
-| 1/22     | Overview   |             |           | Assignment #0 Assigned |
+| 1/22     | Overview   | [Lec 0]({{ site.baseurl}}/lectures/lec1-overview/lec0-overview.odp ), [Lec 1]({{ site.baseurl}}/lectures/lec1-overview/lec1-c.odp)              |           | Assignment #0 Assigned |
 
