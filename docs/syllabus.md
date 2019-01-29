@@ -83,7 +83,7 @@ We will have an exam during finals week. The bulk of your grade will come from w
 
 ### Participation
 
-I favor an interactive teaching style where I will work on and have you work on programming problems during class, when applicable. As a result, participating in class is a natural extension of attending for everyone, and the participation grade is meant to reward you for attending and working during class.
+I will work on and have you work on programming problems during class, when applicable. As a result, participating in class is a natural extension of attending for everyone, and the participation grade is meant to reward you for attending and working during class.
 
 ### Academic Honesty Expectations
 
