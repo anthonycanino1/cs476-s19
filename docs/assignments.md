@@ -11,3 +11,10 @@ Please find links to assignments here.
 Assignment Link: [Assignment 0]({{ site.baseurl}}{% link assignment0.md %})  
 Assigned: 1/22/19  
 Due: 1/24/19 (read before class)  
+
+
+## Assignment 1
+
+Assignment Link: [Assignment 1]({{ site.baseurl}}{% link assignment1.md %})  
+Assigned: 1/31/19  
+Due: 2/12/19 11:00pm
