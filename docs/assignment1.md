@@ -4,7 +4,7 @@ layout: default
 
 # Assignment 1: Thread-Safe Memory Allocator
 
-#### Due: February 12 (Tuesday) by 11:00pm
+#### Due: February 14 (Friday) by 11:00pm
 
 #### Project Template: [p1-template.tar.gz]({{ site.baseurl }}/assignments/p1/p1-template.tar.gz)
 
@@ -174,6 +174,32 @@ static allocator alloc;
 ```
 
 In C, ``static`` declares a variable with *file scope*. It essentially means that only code in ``my_malloc.c`` can access ``alloc``, which offers some protection to the global state.
+
+### Handling Arenas
+
+We discussed some specific solutions in class for handling how threads access arenas. The specifics are up to you, however, I have two general strategies for you to use. 
+
+The key is that multiple threads can *concurrently* access the arenas. Each arena likely needs some form of synchronization primitive (lock). Then, one strategy would be to continiously try all locks until one is grabbed. To do this, you may use ``pthread_try_lock`` which returns 0 if a thread grabs the lock, otherwise, a non-0 value is returned *imediately*, i.e,. ``pthread_try_lock`` is a non-blocking way to atomically grab a lock. For example:
+
+```
+pthread_mutex_t lock;
+
+if (pthread_try_lock(&lock) == 0) {
+  // have the lock
+} else {
+  // need to do something else
+}
+```
+
+Another strategy is to use a threads idea as a form of index into a specific arena. To do this, you can use the following code:
+
+```
+pthread_t tid = pthread_self();
+int index = tid % num_arenas;
+```
+
+This strategy is not platform-independent, but it works fine for the purpose of the assignment (pthread_t is a typedef'd int on ``remote.cs.binghamton.edu``).
+
 
 ## 5. Hacker Challenge
 
