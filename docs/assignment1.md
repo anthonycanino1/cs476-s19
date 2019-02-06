@@ -4,7 +4,7 @@ layout: default
 
 # Assignment 1: Thread-Safe Memory Allocator
 
-#### Due: February 14 (Friday) by 11:00pm
+#### Due: February 15 (Friday) by 11:00pm
 
 #### Project Template: [p1-template.tar.gz]({{ site.baseurl }}/assignments/p1/p1-template.tar.gz)
 
