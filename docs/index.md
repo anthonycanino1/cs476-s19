@@ -17,5 +17,5 @@ I will continually update the following schedule with slides used during lecture
 | 1/29     | C Sync  | | [queue.c]({{ site.baseurl}}/lectures/lec3-moresync/queue.c) [vector-spin.c]({{ site.baseurl}}/lectures/lec3-moresync/vector-spin.c) [queue-complete.c]({{ site.baseurl}}/lectures/lec3-moresync/queue-complete.c) [vector-locked.c]({{ site.baseurl}}/lectures/lec3-moresync/vector-locked.c) [vector-sem.c]({{ site.baseurl}}/lectures/lec3-moresync/vector-sem.c) [vector-cond.c]({{ site.baseurl}}/lectures/lec3-moresync/vector-cond.c)     | |
 | 1/31     | CLASS CANCELLED  |      |            | Assignment #1 Assigned |
 | 2/5      | Cilk Intro  |[Lec 4]({{ site.baseurl}}/lectures/lec4-cilk-intro/lec4-cilk-intro.pdf ) | [fib.c]({{ site.baseurl}}/lectures/lec4-cilk-intro/fib.c) [vector.c]({{ site.baseurl}}/lectures/lec4-cilk-intro/vector.c) [merge.c]({{ site.baseurl}}/lectures/lec4-cilk-intro/merge.c)      | |
-| 2/7      | Cilk Detailed  || [warmup.c]({{ site.baseurl}}/lectures/lec5-cilk-detailed/warmup.c)      | |
+| 2/7      | Cilk Detailed  | [Lec 5]({{ site.baseurl}}/lectures/lec5-cilk-detailed/lec5-cilk-detailed.pdf ) | [warmup.c]({{ site.baseurl}}/lectures/lec5-cilk-detailed/warmup.c)      | |
 
