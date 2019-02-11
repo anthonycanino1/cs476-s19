@@ -67,6 +67,8 @@ You grade will be based on:
 
 Programming assignments will regularly be given, and are meant to reinforce topics taught and worked on in class. Expect 4-5 throughout the semester. In terms of lines of code, the assignment will be relatively short, however, as we will move through several topics throughout the semester, expect the assignments to be challenging in terms of using new frameworks, programming models, and techniques for each emerging platform.
 
+Late assignments will be accepted up to 24 hours after the initial deadline. Assignments submitted after the late 24 hours will not be accepted.
+
 ### Project
 
 Each of you will work on a capstone project that showcases an emerging technology / platform of your choosing. You will select a language, framework, or platform and meet with me to discuss a minimal working example that demonstrates knowledge of the selected topic. I will provide a list of potential options and aid in selecting a topic if you are unsure of what interests you. We will select topics in March, and students will give me a final demo in early May.
