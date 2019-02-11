@@ -8,7 +8,7 @@ layout: default
 Anthony Canino  
 Office: P02, Engineering Building  
 Lecture Hours: 11:40am - 1:05pm (T R)  
-Office Hours: Monday 4-6pm, Friday by appointment (email me)
+Office Hours: P02 (across from Eileen Head's office) Monday 4-6pm, Friday by appointment (email me)
 Lecture Classroom: Appalachian Collegiate Center (AP) G014  
 Email: acanino1@binghamton.edu / anthony.canino1@gmail.com  
 
