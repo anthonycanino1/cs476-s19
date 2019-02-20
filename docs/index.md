@@ -20,4 +20,5 @@ I will continually update the following schedule with slides used during lecture
 | 2/7      | Cilk Detailed  | [Lec 5]({{ site.baseurl}}/lectures/lec5-cilk-detailed/lec5-cilk-detailed.pdf ) | [warmup.c]({{ site.baseurl}}/lectures/lec5-cilk-detailed/warmup.c)      | |
 | 2/12      | Java Multicore  | [Lec 6]({{ site.baseurl}}/lectures/lec6-java/lec6-java.pdf ) | [Factorial.java]({{ site.baseurl}}/lectures/lec6-java/Factorial.java) [Queue.java]({{ site.baseurl}}/lectures/lec6-java/Queue.java) [Vector.java]({{ site.baseurl}}/lectures/lec6-java/Vector.java) | | 
 | 2/14      | MPI Intro  | [Lec 7]({{ site.baseurl}}/lectures/lec7-mpi-intro/lec7-mpi-intro.pdf ) | [hello.c]({{ site.baseurl}}/lectures/lec7-mpi-intro/hello.c) [fib.c]({{ site.baseurl}}/lectures/lec7-mpi-intro/fib.c) | | 
-| 2/14      | MPI Advanced  | | [circular.c]({{ site.baseurl}}/lectures/lec8-mpi-advanced/circular.c) | | 
+| 2/19      | MPI Review  | | [circular.c]({{ site.baseurl}}/lectures/lec8-mpi-review/circular.c) [circular-solved.c]({{ site.baseurl}}/lectures/lec8-mpi-review/circular-solved.c)  | | 
+| 2/21      | MPI Advanced  | [monte.c]({{ site.baseurl}}/lectures/lec9-mpi-advanced/monte.c) | | 
