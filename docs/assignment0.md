@@ -6,7 +6,7 @@ layout: default
 
 ## Purpose
 
-To familiarize yourself with remote work for during class sessions and testing and running assignments. For those of you who have a POSIX-like operating systems (any linux distro, macOS) feel free to install any necessary software and work locally; however, I will use remote.cs.binghamton.edu as the reference environment for grading.
+To check for remote work for during class sessions and testing and running assignments. For those of you who have a POSIX-like operating systems (any linux distro, macOS) feel free to install any necessary software and work locally; however, I will use remote.cs.binghamton.edu as the reference environment for grading.
 
 ## Description
 
