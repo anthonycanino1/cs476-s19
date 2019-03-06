@@ -22,3 +22,6 @@ I will continually update the following schedule with slides used during lecture
 | 2/14      | MPI Intro  | [Lec 7]({{ site.baseurl}}/lectures/lec7-mpi-intro/lec7-mpi-intro.pdf ) | [hello.c]({{ site.baseurl}}/lectures/lec7-mpi-intro/hello.c) [fib.c]({{ site.baseurl}}/lectures/lec7-mpi-intro/fib.c) | | 
 | 2/19      | MPI Review  | | [circular.c]({{ site.baseurl}}/lectures/lec8-mpi-review/circular.c) [circular-solved.c]({{ site.baseurl}}/lectures/lec8-mpi-review/circular-solved.c)  | | 
 | 2/21      | MPI Advanced  | [Lec 8]({{ site.baseurl}}/lectures/lec9-mpi-advanced/lec9-mpi-advanced.pdf )  | [wait-sort.c]({{ site.baseurl}}/lectures/lec9-mpi-advanced/wait-sort.c) [monte.c]({{ site.baseurl}}/lectures/lec9-mpi-advanced/monte.c) [mpi-monte.c]({{ site.baseurl}}/lectures/lec9-mpi-advanced/mpi-monte.c)   | | 
+| 2/26      | CLASS CANCELLED | | | | 
+| 2/28      | MPI Design  | [Lec 10]({{ site.baseurl}}/lectures/lec10-mpi-design/lec10-mpi-design.pdf )  |  | Assignment #2 Assigned | 
+| 3/5      | Go Intro  | [Lec 11]({{ site.baseurl}}/lectures/lec11-go-intro/lec11-go-intro.pdf )  | [list.go]({{ site.baseurl}}/lectures/lec11-go-intro/list.go) [list-modified.go]({{ site.baseurl}}/lectures/lec11-go-intro/list-modified.go)  | | 
