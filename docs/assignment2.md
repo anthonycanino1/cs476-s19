@@ -8,6 +8,10 @@ layout: default
 
 #### Project Template: [p2-template.tar.gz]({{ site.baseurl }}/assignments/p2/p2-template.tar.gz)
 
+Update (2/7): Memory leak fixed in sat.c. The template has been updated. The modifed files are:
+[verify]({{ site.baseurl }}/assignments/p2/verify)
+[sat.c]({{ site.baseurl }}/assignments/p2/sat.c)
+
 #### Table of Contents
 
 1. [Purpose](#1-purpose)
