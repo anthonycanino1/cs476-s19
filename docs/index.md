@@ -25,5 +25,5 @@ I will continually update the following schedule with slides used during lecture
 | 2/26      | CLASS CANCELLED | | | | 
 | 2/28      | MPI Design  | [Lec 10]({{ site.baseurl}}/lectures/lec10-mpi-design/lec10-mpi-design.pdf )  |  | Assignment #2 Assigned | 
 | 3/5      | Go Intro  | [Lec 11]({{ site.baseurl}}/lectures/lec11-go-intro/lec11-go-intro.pdf )  | [list.go]({{ site.baseurl}}/lectures/lec11-go-intro/list.go) [list-modified.go]({{ site.baseurl}}/lectures/lec11-go-intro/list-modified.go)  | | 
-| 3/7      | Go Practice  | | [node.go]({{ site.baseurl}}/lectures/lec11-go-practice/node.go) | | 
+| 3/7      | Go Practice  | | [node.go]({{ site.baseurl}}/lectures/lec12-go-practice/node.go) | | 
 
