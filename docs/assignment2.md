@@ -11,6 +11,7 @@ layout: default
 Update (2/7): Memory leak fixed in sat.c. The template has been updated. The modifed files are:
 [verify]({{ site.baseurl }}/assignments/p2/verify)
 [sat.c]({{ site.baseurl }}/assignments/p2/sat.c)
+[simple.txt]({{ site.baseurl }}/assignments/p2/simple.txt)
 
 #### Table of Contents
 
