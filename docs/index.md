@@ -27,4 +27,5 @@ I will continually update the following schedule with slides used during lecture
 | 3/5      | Go Intro  | [Lec 11]({{ site.baseurl}}/lectures/lec11-go-intro/lec11-go-intro.pdf )  | [list.go]({{ site.baseurl}}/lectures/lec11-go-intro/list.go) [list-modified.go]({{ site.baseurl}}/lectures/lec11-go-intro/list-modified.go)  | | 
 | 3/7      | Go Practice  | | [node.go]({{ site.baseurl}}/lectures/lec12-go-practice/node.go) | | 
 | 3/12      | Go Channels  | [Lec 13]({{ site.baseurl}}/lectures/lec13-go-channel/lec13-go-channel.pdf ) | [race.go]({{ site.baseurl}}/lectures/lec13-go-channel/race.go) [channel.go]({{ site.baseurl}}/lectures/lec13-go-channel/channel.go) [gen.go]({{ site.baseurl}}/lectures/lec13-go-channel/gen.go) [deadlock.go]({{ site.baseurl}}/lectures/lec13-go-channel/deadlock.go) | | 
+| 3/14      | Project Slides  | [Project Slides]({{ site.baseurl}}/assignments/project.pdf ) | | Please review project slides| 
 
