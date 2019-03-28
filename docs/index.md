@@ -28,6 +28,6 @@ I will continually update the following schedule with slides used during lecture
 | 3/7      | Go Practice  | | [node.go]({{ site.baseurl}}/lectures/lec12-go-practice/node.go) | | 
 | 3/12      | Go Channels  | [Lec 13]({{ site.baseurl}}/lectures/lec13-go-channel/lec13-go-channel.pdf ) | [race.go]({{ site.baseurl}}/lectures/lec13-go-channel/race.go) [channel.go]({{ site.baseurl}}/lectures/lec13-go-channel/channel.go) [gen.go]({{ site.baseurl}}/lectures/lec13-go-channel/gen.go) [deadlock.go]({{ site.baseurl}}/lectures/lec13-go-channel/deadlock.go) | | 
 | 3/14      | Project Slides  | [Project Slides]({{ site.baseurl}}/assignments/project.pdf ) | | Please review project slides| 
-| 3/26      | GPU Programming  | [Lec 14]({{ site.baseurl}}/lectures/lec4-gpu/lec14-gpu.pdf ) | | | 
+| 3/26      | GPU Programming  | [Lec 14]({{ site.baseurl}}/lectures/lec14-gpu/lec14-gpu.pdf ) | | | 
 | 3/28      | CUDA Programming  | [Lec 15]({{ site.baseurl}}/lectures/lec15-cuda/lec15-cuda.pdf ) | | Assignment #3 Assigned | 
 
