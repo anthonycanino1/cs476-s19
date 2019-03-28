@@ -24,3 +24,9 @@ Due: 2/15/19 11:00pm
 Assignment Link: [Assignment 2]({{ site.baseurl}}{% link assignment2.md %})  
 Assigned: 2/28/19  
 Due: 3/12/19 11:00pm
+
+## Assignment 3
+
+Assignment Link: [Assignment 3]({{ site.baseurl}}{% link assignment3.md %})  
+Assigned: 3/28/19  
+Due: 1/12/19 11:00pm
