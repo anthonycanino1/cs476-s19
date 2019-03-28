@@ -117,9 +117,9 @@ The following files:
 
 - ```emerging.go``` : Main driver for the code. 
 
-- ```cmap.go``` : Contains skeleton stubs for you to implement your channel map version of an ```EmergingMap``` implementation.
+- ```cmap.go``` : Contains skeleton stubs for you to implement your channel map version of an ```EmergingMap``` implementation. Enable with option ``-chan``.
 
-- ```lmap.go``` : My implementation of a locking map implementation of ```EmergingMap```. You may use it as a reference. 
+- ```lmap.go``` : My implementation of a locking map implementation of ```EmergingMap```. You may use it as a reference.  Enable with option ``-lock``.
 
 ## 4. Submission and Grading
 
