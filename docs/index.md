@@ -30,4 +30,8 @@ I will continually update the following schedule with slides used during lecture
 | 3/14      | Project Slides  | [Project Slides]({{ site.baseurl}}/assignments/project.pdf ) | | Please review project slides| 
 | 3/26      | GPU Programming  | [Lec 14]({{ site.baseurl}}/lectures/lec14-gpu/lec14-gpu.pdf ) | | | 
 | 3/28      | CUDA Programming  | [Lec 15]({{ site.baseurl}}/lectures/lec15-cuda/lec15-cuda.pdf ) | | Assignment #3 Assigned | 
+| 4/2       | CLASS CANCELLED  |  | | | 
+| 4/4       | CLASS CANCELLED | | | | 
+| 4/9       | Android Overview  | [Lec 16]({{ site.baseurl}}/lectures/lec16-android/lec16-android.pdf ) | | | 
+| 4/11       | Android Sensors  | [Lec 17]({{ site.baseurl}}/lectures/lec17-android-sensor/lec17-android-sensor.pdf ) | | | 
 
