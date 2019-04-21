@@ -33,6 +33,7 @@ I will continually update the following schedule with slides used during lecture
 | 4/2       | CLASS CANCELLED  |  | | | 
 | 4/4       | CLASS CANCELLED | | | | 
 | 4/9       | Android Overview  | [Lec 16]({{ site.baseurl}}/lectures/lec16-android/lec16-android.pdf ) | | | 
-| 4/16       | Android AR  | [Lec 18]({{ site.baseurl}}/lectures/lec18-android-ar/lec18-android-ar.pdf ) | | | 
+| 4/11       | Android Sensors  | [Lec 17]({{ site.baseurl}}/lectures/lec17-android-sensor/lec17-android-sensor.pdf ) | | [Maps.me Repository](https://github.com/mapsme/omim) | 
+| 4/16       | Android AR  | [Lec 18]({{ site.baseurl}}/lectures/lec18-android-ar/lec18-android-ar.pdf ) | | Sample code located in [Sceneform SDK](https://github.com/google-ar/sceneform-android-sdk/releases) | 
 | 4/19       | LAB / Rust  | [Lec 19-1]({{ site.baseurl}}/lectures/lec19-rust/lec19-lab.pdf ) [Lec 19-2]({{ site.baseurl}}/lectures/lec19-rust/lec19-rust.pdf ) | | Slide credit to [Alex Crichton](https://codedive.pl/index/speaker/name/alex-crichton) | 
 
