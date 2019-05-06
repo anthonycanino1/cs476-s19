@@ -37,4 +37,7 @@ I will continually update the following schedule with slides used during lecture
 | 4/16       | Android AR  | [Lec 18]({{ site.baseurl}}/lectures/lec18-android-ar/lec18-android-ar.pdf ) | | Sample code located in [Sceneform SDK](https://github.com/google-ar/sceneform-android-sdk/releases) | 
 | 4/19       | LAB / Rust  | [Lec 19-1]({{ site.baseurl}}/lectures/lec19-rust/lec19-lab.pdf ) [Lec 19-2]({{ site.baseurl}}/lectures/lec19-rust/lec19-rust.pdf ) | | Slide credit to [Alex Crichton](https://codedive.pl/index/speaker/name/alex-crichton) | 
 | 4/23       | React  | [Lec 20]({{ site.baseurl}}/lectures/lec20-react/lec20-react.pdf ) | |  | 
+| 4/25       | React / Demo  | | |  | 
+| 4/30       | React Native  | [Lec 21]({{ site.baseurl}}/lectures/lec21-react-native/lec21-react-native.pdf ) | |  | 
+| 5/2        | Formal System / Pi Calculus | | |  | 
 
